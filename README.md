@@ -3,7 +3,8 @@
 # **Citations:**
 -   Kotlin Foundation (JetBrains), (n.d.), Apache 2.0, [https:kotlinlang.org/api/core/kotlin-stdlib/kotlin.math/pow.html](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.math/pow.htm) (learned about the pow() function here)
 -   Kotlin Foundation (JetBrains), (n.d.), Apache 2.0, https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.time/-instant/ (learned how to obtain the current timestamp)
--   Google, Gemini, "How to display a sequence of numbers with a 2-second gap between digits in kotlin jetpack compose?", 2026-10-01 (to implement the display a sequence of n-digits one digit at a time)
+-   Google, Gemini, "How to display a sequence of numbers with a 2-second gap between digits in kotlin jetpack compose?", 2026-10-01 (to implement the display of a sequence of n-digits one digit at a time)
+-   CMPUT 301 (Lab 3), (2026, May 25), Public Domain, https://github.com/cmput301-f26/lab-03 (code is in CityListScreen.kt)
 
 # **Learning Objectives:**
 
