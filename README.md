@@ -1,5 +1,10 @@
 ### Assignment: RapidRecall - A Quick Memory Game App
 
+# **Citations:**
+-   Kotlin Foundation (JetBrains), (n.d.), Apache 2.0, https:kotlinlang.org/api/core/kotlin-stdlib/kotlin.math/pow.html (learned about the pow() function here)
+-   Kotlin Foundation (JetBrains), (n.d.), Apache 2.0, https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.time/-instant/ (learned how to obtain the current timestamp)
+-   Google, Gemini, "How to display a sequence of numbers with a 2-second gap between digits in kotlin jetpack compose?", 2026-10-01 (to implement the display a sequence of n-digits one digit at a time)
+
 # **Learning Objectives:**
 
 -   Create a simple, interactive mobile application using Android, Kotlin,
